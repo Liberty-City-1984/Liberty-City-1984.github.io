@@ -1,6 +1,6 @@
 # Liberty-City-1984.github.io
 <DOCTYPE html>
-  <html lang="zh-en">
+<html lang="zh-en">
   <head>
     <meta charset="utf-8"/>
     <title>Liberty City 1984</title>
